@@ -7,7 +7,7 @@ The project has 4 main categories: (See [code](https://github.com/rajuzumaki2207
  - Data cleaning
  - Exploratory data analysis
  - Building a classifier
- - Selecting the predictor aalgorith for creating a live app using ***streamlit***
+ - Selecting the predictor algorithm for creating a live app using ***streamlit***
 
 ## Classifiers used are shown below with their accuracy and precision score.
 [![image](https://github.com/rajuzumaki2207/SMS_EMAIL_SPAM_Detector/blob/main/Capture.JPG)

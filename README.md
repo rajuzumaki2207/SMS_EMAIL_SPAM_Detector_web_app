@@ -20,3 +20,9 @@ The project has 4 main categories: (See [code](https://github.com/rajuzumaki2207
 ### Here is a example of live app prediction for NON- SPAM
 
 [![image2](https://github.com/rajuzumaki2207/SMS_EMAIL_SPAM_Detector/blob/main/not_spam.JPG)
+
+
+### Python libraries used 
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)  ![](https://ml.globenewswire.com/Resource/Download/739a0114-4c0d-4a18-b85e-b53982324cbc)
